@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 # remote_theme: mmistakes/so-simple-theme
-locale: ko-kr
-title: "MCU Gallery"
-description: "마블 영화 조금 더 재밌게 보기"
+locale: ja-jp
+title: "Welcome to Crypto Restaurant!"
+description: "クリプトレストランにようこそ！"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 url: "https://dhhomie.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
@@ -86,9 +86,9 @@ defaults:
 
 # Site Author
 author:
-  name: B.Happy
+  name: DH.Lee
   picture:
-  email: dhhomie@gmail.com
+  email: dhlee@crypto-mall.org
 #  twitter:
 #  links:
 #    - title:
