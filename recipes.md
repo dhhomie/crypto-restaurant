@@ -6,4 +6,4 @@ collection: recipes
 entries_layout: grid
 ---
 
-クリプトレストランの営業秘密を公開します！
+クリプトレストランの秘密レシピを特別公開中！
