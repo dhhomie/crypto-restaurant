@@ -101,32 +101,32 @@ defaults:
 
 # Site Author
 author:
-  name: Michael Rose
+  name: Sue Takeshi
   picture: /images/michael-rose-photo.jpg
   email:
-  twitter: mmistakes
+  twitter: cryptomall_pr
   links:
     - title: Twitter
-      url: https://twitter.com/mmistakes
+      url: https://twitter.com/cryptomall_pr
       icon: fab fa-twitter-square
     - title: Instagram
-      url: https://instagram.com/mmistakes
+      url: https://instagram.com/cryptomall_ou
       icon: fab fa-instagram
-    - title: GitHub
-      url: https://github.com/mmistakes
-      icon: fab fa-github-square
+    # - title: GitHub
+    #   url: https://github.com/mmistakes
+    #   icon: fab fa-github-square
 
 # Footer Links
 footer_links:
   - title: Twitter
-    url: https://twitter.com/mmistakes
+    url: https://twitter.com/cryptomall_pr
     icon: fab fa-twitter-square
   - title: Instagram
-    url: https://instagram.com/mmistakes
+    url: https://instagram.com/cryptomall_ou
     icon: fab fa-instagram
-  - title: GitHub
-    url: https://github.com/mmistakes
-    icon: fab fa-github-square
+  # - title: GitHub
+  #   url: https://github.com/mmistakes
+  #   icon: fab fa-github-square
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square

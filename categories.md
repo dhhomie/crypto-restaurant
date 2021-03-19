@@ -1,7 +1,7 @@
 ---
-title: Category Archive
+title: Menu
 layout: categories
-permalink: /categories/
+permalink: /menu/
 show_excerpts: true
 entries_layout: list
 ---

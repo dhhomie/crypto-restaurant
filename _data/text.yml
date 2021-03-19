@@ -36,6 +36,32 @@ en-GB:
 en-AU:
   <<: *DEFAULT_EN
 
+ja: &DEFAULT_JP
+  skip_links: "Skip links"
+  skip_primary_nav: "Skip to primary navigation"
+  skip_content: "Skip to content"
+  skip_footer: "Skip to footer"
+  menu_label: "メニュー"
+  by: "by"
+  min_read: "min read"
+  read_more: "もっと見る&hellip;"
+  categories: "カテゴリ"
+  tags: "タグ"
+  pages_categorized: "Pages filed under"
+  pages_tagged: "Pages tagged"
+  table_of_contents: "目次"
+  results_found: "件"
+  share: "共有"
+  tweet: "ツイート"
+  next: "次へ"
+  previous: "前へ"
+  newer: "新しい順"
+  older: "古い順"
+  back_to_top: "トップへ戻る"
+  search_placeholder_text: "キーワードを入力してください..."
+  powered_by: "Powered by"
+ja-JP:
+  <<: *DEFAULT_EN
 
 # German
 # -----------------
