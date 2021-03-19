@@ -1,35 +1,31 @@
 ---
-title: "Chocolate Chip Cookies"
+title: "チョコレートチップクッキー"
 image: 
   path: /images/chocolate-chip-cookies-lg.jpg
   thumbnail: /images/chocolate-chip-cookies-400x200.jpg
   caption: "Photo from [Pexels](https://www.pexels.com)"
 ---
 
-A chocolate chip cookie is a drop cookie that originated in the United States and features chocolate chips as its distinguishing ingredient.
+クッチーの定番！チョコレートチップクッキーの作り方を紹介します！これはたまらない！
 
-The traditional recipe combines a dough composed of butter and both brown and white sugar with semi-sweet chocolate chips. Variations include recipes with other types of chocolate as well as additional ingredients such as nuts or oatmeal.
+## 材料
 
-This recipe makes 4 dozen cookies.
+* 小麦粉　2.25杯
+* ベーキングソーダ　1t
+* 塩　0.5t
+* バター　1杯
+* 砂糖　2杯
+* バニラエキストラト　2t
+* 卵　2個
+* チョコレートチップ　2杯
+* ナツメグ　0.5t　（自由）
+* クルミ　1杯　（自由）
 
-## Ingredients
+## 作り方
 
-* 2 1/4 cups all-purpose flour
-* 1 teaspoon baking soda
-* 1/2 teaspoon salt
-* 1 cup butter, softened and cut to pieces
-* 1 cup sugar
-* 1 cup light brown sugar, packed
-* 2 teaspoons vanilla extract
-* 2 large eggs
-* 2 cups semi-sweet chocolate chips
-* 1/2 teaspoon nutmeg (optional)
-* 1 cup chopped pecans or walnuts (optional)
-
-## Directions
-
-1. Preheat the oven to 350 F.
-2. In a medium bowl, whisk flour with baking soda, nutmeg and salt.
-3. In a large bowl, beat butter with sugar and brown sugar until creamy and light. Add vanilla and eggs, one at a time, and mix until incorporated.
-4. Gradually add dry mixture into the butter-sugar wet blend, mixing with a spatula until combined. Add chocolate chips and nuts until just mixed.
-5. Drop tablespoon-sized clumps onto un-greased cookie sheets. Bake for 8-12 minutes, or until pale brown. Allow to cool on the pan for a minute or three, then transfer cookies to a wire rack to finish cooling.
+1. オーブンを170°Cで予熱しておく。
+2. 中間サイズのボウルに、小麦粉とベーキングソーダ、ナツメグと塩を入れて混ぜる。
+3. 大きなサイズのボウルに、バターと砂糖を入れて、クリーミーになるまで混ぜる。その後、バニラと卵を入れて、よく混ぜる。
+4. 二つのボウルを一つにまとめる。
+5. チョコレートチップとクルミを入れ、完全に混ぜる。
+6. クッキシートに、大さじサイズで生地を入れて、8~12分間焼く。焼き終わったら、1~3分間冷やして完成。
