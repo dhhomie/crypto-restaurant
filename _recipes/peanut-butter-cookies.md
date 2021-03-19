@@ -4,7 +4,7 @@ image:
   path: /images/peanut-butter-cookies-lg.jpg
   thumbnail: /images/peanut-butter-cookies-400x200.jpg
   caption: "Photo from [Pexels](https://www.pexels.com)"
-author: "Billy Rick"
+author: "Sue"
 ---
 
 A peanut butter cookie is a type of cookie that is distinguished for having peanut butter as a principal ingredient. The cookie generally originated in the United States, its development dating back to the 1910s.
