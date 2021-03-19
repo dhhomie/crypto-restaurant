@@ -5,10 +5,10 @@ Kitamura:
   name: Kitamura Shuka
   picture: /images/bio-kitamura.jpg
   twitter: "@cryptomall_pr"
-  links:
-    - title: Twitter
-      url: https://twitter.com/cryptomall_pr
-      icon: fab fa-twitter-square
+  # links:
+  #   - title: Twitter
+  #     url: https://twitter.com/cryptomall_pr
+  #     icon: fab fa-twitter-square
 
 Sue:
   name: Sue Takeshi
