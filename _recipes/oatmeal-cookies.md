@@ -7,22 +7,23 @@ image:
 author: "Kitamura"
 ---
 
-Oatmeal cookies are a proverbial favorite with both kids and adults. This crisp and chewy cookie is loaded with oats, dried fruit, and chopped nuts.
+## 材料
 
-## Ingredients
+* バター　1杯
+* 砂糖　2杯
+* 卵　2個
+* バニラエクストラクト　1t
+* 小麦粉　2杯
+* ベーキングソーダ　1t
+* 塩　1t
+* シナモン粉　1.5t
+* オーツ麦　3杯
 
-* 1 cup butter, softened 1 cup white sugar
-* 1 cup packed brown sugar
-* 2 eggs
-* 1 teaspoon vanilla extract
-* 2 cups all-purpose flour
-* 1 teaspoon baking soda
-* 1 teaspoon salt
-* 1 1/2 teaspoons ground cinnamon
-* 3 cups quick cooking oats
+## 作り方
 
-## Directions
-
-1. In a medium bowl, cream together butter, white sugar, and brown sugar. Beat in eggs one at a time, then stir in vanilla. Combine flour, baking soda, salt, and cinnamon; stir into the creamed mixture. Mix in oats. Cover, and chill dough for at least one hour.
-2. Preheat the oven to 375 degrees F (190 degrees C). Grease cookie sheets. Roll the dough into walnut sized balls, and place 2 inches apart on cookie sheets. Flatten each cookie with a large fork dipped in sugar.
-3. Bake for 8 to 10 minutes in preheated oven. Allow cookies to cool on baking sheet for 5 minutes before transferring to a wire rack to cool completely.
+1. ボウルにバターと砂糖を入れてクリーミーに作る。
+2. 卵とバニラを入れて混ぜる。
+3. 小麦粉とベーキングソーダ、塩とシナモンを入れて、さらにクリーミーになるまで混ぜる。
+4. オーツ麦を入れて、ふたをしたまま1時間以上冷やす。
+5. 190°Cで予熱したオーブンにクッキーシートを敷いて、生地をクルミぐらいの大きさで入れていく。この際、それぞれ5cm程度間隔を空ける。
+6. 8~10分程度焼いた後、クッキーシートの上で5分程度冷やすと完成。
