@@ -1,11 +1,13 @@
 ---
-title: "Oatmeal Cookies"
+title: "オートミールクッキー"
 image: 
   path: /images/oatmeal-cookies-lg.jpg
   thumbnail: /images/oatmeal-cookies-400x200.jpg
   caption: "Photo from [Pexels](https://www.pexels.com)"
 author: "Kitamura"
 ---
+
+大人も子供も好きなオートミールクッキーの作り方を紹介します。
 
 ## 材料
 
@@ -17,7 +19,7 @@ author: "Kitamura"
 * ベーキングソーダ　1t
 * 塩　1t
 * シナモン粉　1.5t
-* オーツ麦　3杯
+* オート麦　3杯
 
 ## 作り方
 
