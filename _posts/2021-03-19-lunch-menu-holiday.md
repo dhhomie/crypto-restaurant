@@ -11,6 +11,8 @@ tags:
   - 定食
   - 酒類
   - 肉類
+author:
+  Kitamura
 last_modified_at: 2021-03-19T14:25:52-05:00
 ---
 
